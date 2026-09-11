@@ -232,3 +232,6 @@ This repository serves as the official landing page for MultiBootUSB. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of MultiBootUSB today!**
+
+---
+**Last updated:** 2026-09-11 12:05:36 UTC
