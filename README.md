@@ -234,4 +234,4 @@ This repository serves as the official landing page for MultiBootUSB. The softwa
 **Get the most recent version of MultiBootUSB today!**
 
 ---
-**Last updated:** 2026-09-22 10:38:55 UTC
+**Last updated:** 2026-09-22 15:17:57 UTC
